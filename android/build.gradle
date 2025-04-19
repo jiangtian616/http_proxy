@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace 'plugin.lm.http_proxy'
+    namespace 'com.lm.http_proxy'
     compileSdkVersion 28
 
     defaultConfig {
